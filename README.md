@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**jaffarabbas/jaffarabbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome To Universe Of Darklord __ JAFFAR ABBAS
 
 - 🔭 I’m currently working on Android Projects

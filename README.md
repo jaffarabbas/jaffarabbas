@@ -24,8 +24,9 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod" />
 </a>
 
-<a><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jaffarabbas&repo=React-Web-Application-Development" />
-     
+<a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jaffarabbas&repo=React-Web-Application-Development" />    
+ </br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jaffarabbas&repo=C-sharp-Practice" />
-   <a/>
+ <a/>
 

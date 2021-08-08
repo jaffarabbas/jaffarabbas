@@ -10,9 +10,7 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
 
 -![Visitor Count](https://profile-counter.glitch.me/{jaffarabbas}/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaffarabbas&langs_count=6)
-
-![Jaffar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaffarabbas&langs_count=6) ![Jaffar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical)
 
 [![jaffarabbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod)](https://github.com/jaffar/jaffarabbas)
 

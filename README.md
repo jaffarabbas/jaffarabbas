@@ -13,15 +13,15 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaffarabbas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![jaffarabbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod)](https://github.com/jaffar/jaffarabbas) -->
 
 
-<div align=""left>
+<div align="left">
   <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaffarabbas&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaffarabbas&layout=compact" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod" />
 </a>
 <div/>
 

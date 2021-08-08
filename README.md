@@ -13,9 +13,9 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaffarabbas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![jaffarabbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod)](https://github.com/jaffar/jaffarabbas) -->
 
 
-<a>
+<div align=""left>
+  <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jaffarabbas&repo=React-Web-Application-Development" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaffarabbas&layout=compact" />
@@ -23,5 +23,10 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod" />
 </a>
+<div/>
 
+  <div>
+    <a><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jaffarabbas&repo=React-Web-Application-Development" />
+<a/>
+  <div/>
 

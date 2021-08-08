@@ -7,6 +7,8 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
 - 💬 Ask me about Java
 - 📫 How to reach me: gamaportal8@gmail.com
 - ⚡ Fun fact: Use sout in Intelij Idea to Print 
-- 
+
 -![Visitor Count](https://profile-counter.glitch.me/{jaffarabbas}/count.svg)
+
+![Jaffar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical)
 -->

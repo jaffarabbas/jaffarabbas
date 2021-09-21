@@ -15,15 +15,15 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
 
  
 
-<a>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical" />
-</a>
-<a>
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaffarabbas&layout=compact" />
-</a>
-<a>
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod" />
-</a>
+</p>
 
 
 

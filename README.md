@@ -1,12 +1,20 @@
-Welcome To Universe Of Darklord __ JAFFAR ABBAS
+<h3 align="center">
+  Welcome to Jaffar Abbas's Universe!
+  <img src="https://media2.giphy.com/media/xUA7aO2BevR1zK6fE4/giphy.gif?cid=ecf05e478xsdyg8q31jde2xvrpgd3a8htnntvx7y5noqfech&rid=giphy.gif&ct=s" width="28">
+</h3>
 
-- 🔭 I’m currently working on Android Projects
-- 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate on Open Source 
-- 🤔 I’m looking for help with My Self
-- 💬 Ask me about Java
-- 📫 How to reach me: gamaportal8@gmail.com
-- ⚡ Fun fact: Use sout in Intelij Idea to Print 
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web-Developer%20;and;%20Mobile%20App%20developer;Self-taught%20UI%2FUX%20Designer;Node%20Js%20Developer;Asp%20Dot%20Net%20Developer;%20Flutter%20Developer;3years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+
+<p align="center">
+<a><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 470px; height: 390px; left: 0px; top: 0px;"></a>&nbsp
+<a>
+<img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47cjwlyt9w4vzwklu5cazoassvtuwrmkg44u25h0it&amp;rid=giphy.gif&amp;ct=s" alt="Web Development C Sticker by Putti Apps" style="width: 480px; height: 420px; left: 0px; top: 0px;">
+</a>
+<a><img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47k6052alc3n7ea8fkjkg8sbvzg6pj6gfbd7an2j3j&amp;rid=giphy.gif&amp;ct=s" alt="Pc Coding Sticker by IYKRA.com" style="width: 500px; height: 500px; left: 0px; top: 0px;"></a>
+</p>
 
 <h1 align="center">Languages and Tools</h1>
 
@@ -66,3 +74,5 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jaffar Abbas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaffarabbas&bg_color=1F222E&color=F8D866&line=de3187&point=5a9bdb&hide_border=true" /></a>
+  
+

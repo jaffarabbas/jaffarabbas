@@ -54,7 +54,7 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaffarabbas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![jaffarabbas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod)](https://github.com/jaffar/jaffarabbas) -->
 
- 
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=jaffarabbas&theme=radical" alt="jaffarabbas"  /></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaffarabbas&show_icons=true&theme=radical" />
@@ -65,6 +65,5 @@ Welcome To Universe Of Darklord __ JAFFAR ABBAS
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?jaffarabbas=willianrod" />
 </p>
-
 
 

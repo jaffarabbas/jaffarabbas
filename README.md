@@ -1,7 +1,7 @@
-<h3 align="center">
+<h1 align="center">
   Welcome to Jaffar Abbas Universe!
   <img src="https://media2.giphy.com/media/xUA7aO2BevR1zK6fE4/giphy.gif?cid=ecf05e478xsdyg8q31jde2xvrpgd3a8htnntvx7y5noqfech&rid=giphy.gif&ct=s" width="28">
-</h3>
+</h1>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Test%20Automation;Automation;Web-Developer%20;and;%20Mobile%20App%20developer;Self-taught%20UI%2FUX%20Designer;Node%20Js%20Developer;Asp%20Dot%20Net%20Developer;%20Flutter%20Developer;3years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -14,6 +14,18 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jaffarabbas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/jaffarabbas" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=jaffarabbas&style=flat&color=brightgreen"> •    -->
+  <a href="https://user-badge.committers.top/pakistan/jaffarabbas"><img src="https://user-badge.committers.top/pakistan/jaffarabbas.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/jaffarabbas?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/jaffarabbas?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/jaffarabbas"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
+<br>
 <!-- ![Jaffar Abbas Banner Image](./banner.PNG) -->
 
 <p align="center">

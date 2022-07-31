@@ -106,4 +106,15 @@
   
 </div>
   
+<h4 align="center">
+  WakaTime States
+</h4>
 
+<p align="center">
+<img align="center" height="330px" width="450px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/f2558c4c-7276-4d6e-b09a-e62a88101c08.png" >
+<img align="center" height="330px" width="450px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/c4ea214e-e13b-4276-9c7a-36512c29a663.png" >
+</p>
+<p align="center">
+<img align="center" height="330px" width="450px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/d9e72bc8-3d27-4def-b034-3d51ef4da893.png" >
+<img align="center" height="330px" width="450px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/20b5a1fe-1278-4a48-ab63-185ec354bf84.png" >
+</p>

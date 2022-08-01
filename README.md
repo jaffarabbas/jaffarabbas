@@ -106,9 +106,7 @@
   
 </div>
   
-<h4 align="center">
-  WakaTime States
-</h4>
+<h1 align="center">WakaTime States</h1>
 
 <p align="center">
 <img align="center" height="330px" width="420px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/f2558c4c-7276-4d6e-b09a-e62a88101c08.png" >

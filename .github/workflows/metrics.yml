@@ -1,8 +1,31 @@
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+
+name: snake game from a github user contributions graph
+
+on:
+  # run automatically at 0 o'clock
+  schedule:
+    - cron: "0 0 * * * " 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:  
+        - name: Example
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.classic.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: header, repositories
+            plugin_lines: yes

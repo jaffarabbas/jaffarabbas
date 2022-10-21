@@ -117,3 +117,10 @@
 <img align="center" height="330px" width="420px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/d9e72bc8-3d27-4def-b034-3d51ef4da893.png" >
 <img align="center" height="330px" width="420px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/20b5a1fe-1278-4a48-ab63-185ec354bf84.png" >
 </p>
+
+<h1 align="center">Certifications and Badges</h1>
+
+<p align="center">
+<img align="center" src="https://github.com/jaffarabbas/jaffarabbas/blob/main/images/dc.png" >
+<img align="center" src="https://github.com/jaffarabbas/jaffarabbas/blob/main/images/pc.png" >
+</p>

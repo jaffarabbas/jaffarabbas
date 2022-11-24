@@ -1,9 +1,27 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.29
 
-  with:
-    filename: workflows/metrics.plugin.isocalendar.fullyear.svg
-    token: ${{ secrets.METRICS_TOKEN }}
-    base: ""
-    plugin_isocalendar: yes
-    plugin_isocalendar_duration: full-year
+
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "31 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jaffarabbas/github-profile-3d-contrib@0.4.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 250
+      - name: Commit & Push
+        run: |
+          git config user.name ${{ github.repository_owner }}
+          git config user.email gamaportal8@gmail.com
+          git add -A .
+          git commit -m "GitHub 3D Profile"
+          git push

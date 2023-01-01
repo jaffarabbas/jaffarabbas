@@ -91,7 +91,7 @@
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jaffar Abbas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaffarabbas&bg_color=1F222E&color=F8D866&line=de3187&point=5a9bdb&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jaffar Abbas's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jaffarabbas&theme=github-compact" /></a>
 
   <br/>
  <div align="center">

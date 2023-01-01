@@ -93,13 +93,15 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jaffar Abbas's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jaffarabbas&theme=github-compact" /></a>
 
-  <br/>
  <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jaffarabbas&column=7&theme=onedark" />
 </div>
 <br/>
    
-  
+ <div align="center">
+  <img src="https://github.com/jaffarabbas/jaffarabbas/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+<br/>
    <div align="center">
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/jaffarabbas/jaffarabbas/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)

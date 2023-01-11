@@ -127,8 +127,8 @@
 <img align="center" src="https://github.com/jaffarabbas/jaffarabbas/blob/main/images/pc.png" >
 </p>
   
-  <h1 align="center">LeatCode States</h1>
+<!--   <h1 align="center">LeatCode States</h1>
 
  <p align="center"> 
   <img align="center" src="https://leetcard.jacoblin.cool/jaffarabbas?theme=dark&font=Baloo%202&ext=heatmap"/>
-  </p>
+  </p> -->

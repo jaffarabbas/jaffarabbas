@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/jaffarabbas" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img src="https://gpvc.arturio.dev/jaffarabbas](https://komarev.com/ghpvc/?username=jaffarabbas&label=PROFILE+VIEWS" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=jaffarabbas&style=flat&color=brightgreen"> •    -->
   <a href="https://user-badge.committers.top/pakistan/jaffarabbas"><img src="https://user-badge.committers.top/pakistan/jaffarabbas.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/jaffarabbas?label=Followers&style=social"> •

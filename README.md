@@ -79,7 +79,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jaffar Abbas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact" /></a>
 
  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaffarabbas&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jaffarabbas&column=9&theme=onedark" />
 </div>
 <br/>
    

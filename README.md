@@ -118,7 +118,7 @@
  <p align="center"> 
   <img align="center" src="https://leetcard.jacoblin.cool/jaffarabbas?theme=dark&font=Baloo%202&ext=heatmap"/>
   </p> -->
-<h1 align="center">Certifications and Badges</h1>
+<h1 align="center">Leetcode Stats</h1>
 
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/jaffarabbas?ext=heatmap" >
